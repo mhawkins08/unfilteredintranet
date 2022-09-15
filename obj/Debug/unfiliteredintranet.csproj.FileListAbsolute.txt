@@ -1,0 +1,11 @@
+C:\Users\Mason\source\repos\unfiliteredintranet\unfiliteredintranet\bin\Debug\unfiliteredintranet.exe.config
+C:\Users\Mason\source\repos\unfiliteredintranet\unfiliteredintranet\bin\Debug\unfiliteredintranet.exe
+C:\Users\Mason\source\repos\unfiliteredintranet\unfiliteredintranet\bin\Debug\unfiliteredintranet.pdb
+C:\Users\Mason\source\repos\unfiliteredintranet\unfiliteredintranet\obj\Debug\unfiliteredintranet.csproj.AssemblyReference.cache
+C:\Users\Mason\source\repos\unfiliteredintranet\unfiliteredintranet\obj\Debug\unfiliteredintranet.Form1.resources
+C:\Users\Mason\source\repos\unfiliteredintranet\unfiliteredintranet\obj\Debug\unfiliteredintranet.Properties.Resources.resources
+C:\Users\Mason\source\repos\unfiliteredintranet\unfiliteredintranet\obj\Debug\unfiliteredintranet.csproj.GenerateResource.cache
+C:\Users\Mason\source\repos\unfiliteredintranet\unfiliteredintranet\obj\Debug\unfiliteredintranet.csproj.CoreCompileInputs.cache
+C:\Users\Mason\source\repos\unfiliteredintranet\unfiliteredintranet\obj\Debug\unfiliteredintranet.exe
+C:\Users\Mason\source\repos\unfiliteredintranet\unfiliteredintranet\obj\Debug\unfiliteredintranet.pdb
+C:\Users\Mason\source\repos\unfiliteredintranet\unfiliteredintranet\obj\Debug\unfiliteredintranet.browser.resources
